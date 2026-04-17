@@ -524,3 +524,4 @@ D:\2DS\5) PAMI-Guilherme\AV\AV\obj\Debug\net10.0-windows10.0.19041.0\win-x64\pri
 D:\2DS\5) PAMI-Guilherme\AV\AV\obj\Debug\net10.0-windows10.0.19041.0\win-x64\qualifiers.txt
 D:\2DS\5) PAMI-Guilherme\AV\AV\obj\Debug\net10.0-windows10.0.19041.0\win-x64\qualifiers.txt.intermediate
 D:\2DS\5) PAMI-Guilherme\AV\AV\obj\Debug\net10.0-windows10.0.19041.0\win-x64\MultipleQualifiersPerDimensionFound.txt
+D:\2DS\5) PAMI-Guilherme\AV\AV\obj\Debug\net10.0-windows10.0.19041.0\win-x64\AV.sourcelink.json
