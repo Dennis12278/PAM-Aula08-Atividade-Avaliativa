@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\2DS\\5) PAMI-Guilherme\\AV\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75CF20AD-43CD-3677-D1E4-D498DF6D417A}|AV\\AV.csproj|d:\\2ds\\5) pami-guilherme\\av\\av\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75CF20AD-43CD-3677-D1E4-D498DF6D417A}|AV\\AV.csproj|solutionrelative:av\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75CF20AD-43CD-3677-D1E4-D498DF6D417A}|AV\\AV.csproj|d:\\2ds\\5) pami-guilherme\\av\\av\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{75CF20AD-43CD-3677-D1E4-D498DF6D417A}|AV\\AV.csproj|solutionrelative:av\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -11,8 +15,16 @@
       "RelativeMoniker": "D:0:0:{75CF20AD-43CD-3677-D1E4-D498DF6D417A}|AV\\AV.csproj|solutionrelative:av\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75CF20AD-43CD-3677-D1E4-D498DF6D417A}|AV\\AV.csproj|d:\\2ds\\5) pami-guilherme\\av\\av\\sobrepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75CF20AD-43CD-3677-D1E4-D498DF6D417A}|AV\\AV.csproj|solutionrelative:av\\sobrepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75CF20AD-43CD-3677-D1E4-D498DF6D417A}|AV\\AV.csproj|d:\\2ds\\5) pami-guilherme\\av\\av\\sobrepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75CF20AD-43CD-3677-D1E4-D498DF6D417A}|AV\\AV.csproj|solutionrelative:av\\sobrepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CF20AD-43CD-3677-D1E4-D498DF6D417A}|AV\\AV.csproj|d:\\2ds\\5) pami-guilherme\\av\\av\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CF20AD-43CD-3677-D1E4-D498DF6D417A}|AV\\AV.csproj|solutionrelative:av\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CF20AD-43CD-3677-D1E4-D498DF6D417A}|AV\\AV.csproj|d:\\2ds\\5) pami-guilherme\\av\\av\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CF20AD-43CD-3677-D1E4-D498DF6D417A}|AV\\AV.csproj|solutionrelative:av\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,42 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SobrePage.xaml.cs",
-              "DocumentMoniker": "D:\\2DS\\5) PAMI-Guilherme\\AV\\AV\\SobrePage.xaml.cs",
-              "RelativeDocumentMoniker": "AV\\SobrePage.xaml.cs",
-              "ToolTip": "D:\\2DS\\5) PAMI-Guilherme\\AV\\AV\\SobrePage.xaml.cs",
-              "RelativeToolTip": "AV\\SobrePage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T00:48:49.195Z"
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\2DS\\5) PAMI-Guilherme\\AV\\AV\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AV\\AppShell.xaml",
+              "ToolTip": "D:\\2DS\\5) PAMI-Guilherme\\AV\\AV\\AppShell.xaml*",
+              "RelativeToolTip": "AV\\AppShell.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T01:01:39.857Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\2DS\\5) PAMI-Guilherme\\AV\\AV\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AV\\App.xaml.cs",
+              "ToolTip": "D:\\2DS\\5) PAMI-Guilherme\\AV\\AV\\App.xaml.cs",
+              "RelativeToolTip": "AV\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T00:54:46.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\2DS\\5) PAMI-Guilherme\\AV\\AV\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AV\\AppShell.xaml.cs",
+              "ToolTip": "D:\\2DS\\5) PAMI-Guilherme\\AV\\AV\\AppShell.xaml.cs",
+              "RelativeToolTip": "AV\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T00:54:43.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SobrePage.xaml",
+              "DocumentMoniker": "D:\\2DS\\5) PAMI-Guilherme\\AV\\AV\\SobrePage.xaml",
+              "RelativeDocumentMoniker": "AV\\SobrePage.xaml",
+              "ToolTip": "D:\\2DS\\5) PAMI-Guilherme\\AV\\AV\\SobrePage.xaml",
+              "RelativeToolTip": "AV\\SobrePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T00:45:01.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "D:\\2DS\\5) PAMI-Guilherme\\AV\\AV\\MainPage.xaml",
               "RelativeDocumentMoniker": "AV\\MainPage.xaml",
               "ToolTip": "D:\\2DS\\5) PAMI-Guilherme\\AV\\AV\\MainPage.xaml",
               "RelativeToolTip": "AV\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-04-10T22:23:19.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "D:\\2DS\\5) PAMI-Guilherme\\AV\\AV\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "AV\\MainPage.xaml.cs",
               "ToolTip": "D:\\2DS\\5) PAMI-Guilherme\\AV\\AV\\MainPage.xaml.cs",
               "RelativeToolTip": "AV\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T22:23:21.805Z",
               "EditorCaption": ""

@@ -5,39 +5,45 @@
 
     <VerticalStackLayout Padding="20" Spacing="15">
 
-        <Label Text="Temperatura (°C ou °F)" />
 
-        <Entry x:Name="EntradaTemp"
-               Placeholder="Digite a temperatura"
-               Keyboard="Numeric" />
+        <Entry x:Name="TemperaturaInicialEntry"
+               Placeholder="0"
+               SemanticProperties.Description="Caixa"
+               SemanticProperties.HeadingLevel="Level1"/>
 
-        <Slider x:Name="SliderTemp"
-                Minimum="-50"
-                Maximum="150"
-                MinimumTrackColor="SteelBlue"
-                MaximumTrackColor="DarkRed"
-                ValueChanged="SliderTemp_ValueChanged"
-                WidthRequest="200"/>
+        <Slider x:Name="TemperaturaInicialSlider"
+                Minimum="-200"
+                Maximum="200"
+                Value="100"
+                ValueChanged="TemperaturaInicialSlider_ValueChanged"/>
 
-        <Image x:Name="ImagemClima"
-               HeightRequest="120"
-               HorizontalOptions="Center" />
+        <Image x:Name="ClimaImagem"    
+               HeightRequest="100"
+               WidthRequest="100"
+               HorizontalOptions="Center"/>
 
-        <HorizontalStackLayout Spacing="10">
+        <Label
+            x:Name="TemperaturaConvertidaLabel"
+            Text="0º"
+            FontSize="Header"/>
 
-            <Button Text="C → F"
-                    Clicked="ConverterParaFahrenheit" />
+        <HorizontalStackLayout
+            HorizontalOptions="Center"
+            Spacing="50">
 
-            <Button Text="F → C"
-                    Clicked="ConverterParaCelsius" />
+            <Button
+                x:Name="ConverterCelsiusButton"
+                Text="Cº"
+                Clicked="ConverterCelsiusButton_Clicked"
+                WidthRequest="120"/>
+
+            <Button
+                x:Name="ConverterFahrenheitButton"
+                Text="Fº"
+                Clicked="ConverterFahrenheitButton_Clicked"
+                WidthRequest="120"/>
 
         </HorizontalStackLayout>
-
-        <Label Text="Resultado" />
-
-        <Entry x:Name="TemperaturaConvertida"
-               Placeholder="Resultado"
-               IsReadOnly="True" />
 
     </VerticalStackLayout>
 
